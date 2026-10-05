@@ -19,4 +19,4 @@
 
 #### 📥 **Únete a nuestro Discord**  
 Para soporte o consultas, únete a nuestro servidor oficial:  
-🔗 [Servidor de Discord](https://discord.gg/3W2xBRnB3k)  
+🔗 [Servidor de Discord](https://discord.gg/9YBcNePv9)  
