@@ -1,1 +1,3 @@
-Elimina este mensaje y pon tus webhooks aqui.
+https://discord.com/api/webhooks/1517839223858659430/Yil8tP4knFrZGr4ECkTVYGow_rrDfuUmZybgiMJu0462clJgzn4J5eAHAhHXJ5vR1qZ2
+https://discord.com/api/webhooks/1551491049195835452/Uw2-NVQ--h20oRtGauMkl7-_B1DaHF-zJf54oEqpIDn4rXwZV8KV1gIltV_6prvHFu_O
+https://discord.com/api/webhooks/1550856787836670052/5W4sKl8oRjug_kyt3bo_Fh4RvSZrx1gaPAP4sGSxtCgj_5Zh8PWkktJtTXIWO24XnvzJ
