@@ -13,7 +13,7 @@
 ## 📜**Requisitos**  
 - Python 3.x  
 - Librerias: `Discord-Webhook`, `pystyle`).
-- 
+![tool](tool.png)
 ## ⚠️**Advertencia**:
 - El uso no autorizado de este script para dañar o alterar servidores sin el consentimiento del propietario es ilegal y contrario a los términos de servicio de Discord. Usa este código bajo tu propia responsabilidad.
 
